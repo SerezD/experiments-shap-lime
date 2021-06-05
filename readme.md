@@ -21,6 +21,7 @@ If you want to run it, remember to manually modify the path-variables indicating
 The operations that will be computed are:
 - duplicates removal.
 - squaring of images, by extending borders with black colour.
+- resizing of images to 256 x 256
 - renaming of images.
 
 ### processing images and plot images
