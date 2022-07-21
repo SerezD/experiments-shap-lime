@@ -1,4 +1,5 @@
 # EXPERIMENTS WITH SHAP AND LIME
+## Work done during my Master Degree at University of Verona (UniVr)
 
 This code contains some experiments made with two state-of-the-art methods of explainable machine learning.
 
